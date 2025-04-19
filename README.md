@@ -1,6 +1,7 @@
 # Door_Sysstem_2025
 New Door Access System created in 2025
- *Code was made by Adam who knows VERY little of python and utilized ChatGPT to get it done. Please feel free to suggest more efficient changes*
+
+*Code was made by Adam who knows VERY little of python and utilized ChatGPT to get it done. Please feel free to suggest more efficient changes*
 
 Hardware (wiring diagram coming soon):
 - Raspberry Pi Zero W
